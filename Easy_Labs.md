@@ -42,3 +42,8 @@
 ### [Insider Lab](https://cyberdefenders.org/blueteam-ctf-challenges/insider/) <br/>
 - Under the category of **Endpoint Forensices**.
 - Used *FTK Imager* to analyze the disk image of a Linux OS used by the attacker who is an insider and note the way, extent of attacks
+
+### [Ramnit Lab](https://cyberdefenders.org/blueteam-ctf-challenges/ramnit/) <bbr/>
+- Under the category of **Endpoint Forensics**.
+- Used *Volatility3* to analyze a memory dump of a system that had malware to detect the malware and where it was installed and find its executables.
+- Then after finding the file, used *VirusTotal* to analyze the malware and the domains it contacts.
